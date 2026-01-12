@@ -20,7 +20,7 @@ num_cpus = "1.13"
 ordered-float = "4.1"
 parking_lot = "0.12"
 # rand = { version = "0.8", features = ["small_rng"] }
-getrandom = { version = "0.2.3", features = ["js"]}
+getrandom = { version = "0.3.4", features = ["js"]}
 rand = { version = "0.7.3", features = ["small_rng"]}
 rayon = "1.5"
 serde = { version = "1.0.118", features = ["derive"], optional = true }
